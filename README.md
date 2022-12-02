@@ -15,7 +15,6 @@ I'm Shibbir, Web developer from <img src="https://user-images.githubusercontent.
 [![.NET](https://skillicons.dev/icons?i=dotnet&theme=light)](https://dotnet.microsoft.com)
 [![Vue.js](https://skillicons.dev/icons?i=vue&theme=light)](https://vuejs.org/)
 [![React](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/)
-[![Redux](https://skillicons.dev/icons?i=redux&theme=light)](https://redux.js.org/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light)](https://www.postgresql.org/)
 [![MongoDB](https://skillicons.dev/icons?i=mongo&theme=light)](https://www.mongodb.com)
 [![Firebase](https://skillicons.dev/icons?i=firebase&theme=light)](https://firebase.google.com/)
