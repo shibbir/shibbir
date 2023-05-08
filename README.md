@@ -24,6 +24,7 @@ I'm Shibbir, Web developer from <img src="https://user-images.githubusercontent.
 [![AWS](https://skillicons.dev/icons?i=aws&theme=light)](https://aws.amazon.com/)
 
 #### Latest writings
+- [Authentication with OIDC](https://shibbir.io/authentication-with-oidc)
 - [Introduction To Webpack](https://shibbir.io/introduction-to-webpack)
 - [Introduction To Gulp](https://shibbir.io/introduction-to-gulp)
 - [Beginning RequireJS](https://shibbir.io/beginning-requirejs)
