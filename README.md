@@ -8,24 +8,24 @@ I'm Shibbir, Web developer from <img src="https://user-images.githubusercontent.
 
 ##### Programming Languages
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://en.wikipedia.org/wiki/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts&theme=light)](https://www.typescriptlang.org/)
-[![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=light)](https://www.typescriptlang.org)
+[![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Go](https://skillicons.dev/icons?i=go&theme=light)](https://go.dev)
 [![Python](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org)
-[![Bash](https://skillicons.dev/icons?i=bash&theme=light)](https://www.gnu.org/software/bash)
 
 ##### Database & ORMs
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light)](https://www.postgresql.org)
-[![MongoDB](https://skillicons.dev/icons?i=mongo&theme=light)](https://www.mongodb.com)
-[![Redis](https://skillicons.dev/icons?i=redis&theme=light)](https://redis.io)
-[![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light)](https://www.sqlite.org)
 [![Firebase](https://skillicons.dev/icons?i=firebase&theme=light)](https://firebase.google.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongo&theme=light)](https://www.mongodb.com)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light)](https://www.postgresql.org)
+[![Redis](https://skillicons.dev/icons?i=redis&theme=light)](https://redis.io)
 [![Sequelize](https://skillicons.dev/icons?i=sequelize&theme=light)](https://sequelize.org)
+[![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light)](https://www.sqlite.org)
 
 ##### Framework & Libraries
+[![Express](https://skillicons.dev/icons?i=express&theme=light)](https://expressjs.com)
 [![React](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org)
 [![Redux](https://skillicons.dev/icons?i=redux&theme=light)](https://redux.js.org)
 [![Vue](https://skillicons.dev/icons?i=vue&theme=light)](https://vuejs.org)
-[![Express](https://skillicons.dev/icons?i=express&theme=light)](https://expressjs.com)
 [![.NET](https://skillicons.dev/icons?i=dotnet&theme=light)](https://dotnet.microsoft.com)
 [![GraphQL](https://skillicons.dev/icons?i=graphql&theme=light)](https://graphql.org)
 [![Jest](https://skillicons.dev/icons?i=jest&theme=light)](https://jestjs.io)
@@ -34,14 +34,17 @@ I'm Shibbir, Web developer from <img src="https://user-images.githubusercontent.
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=light)](https://www.docker.com)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=light)](https://kubernetes.io)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare&theme=light)](https://www.cloudflare.com/)
 [![NGINX](https://skillicons.dev/icons?i=nginx&theme=light)](https://www.nginx.com)
 [![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq&theme=light)](https://www.rabbitmq.com)
-[![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=light)](https://www.jenkins.io)
+[![Apache Kafka](https://skillicons.dev/icons?i=kafka&theme=light)](https://kafka.apache.org/)
 
 ##### Tools
 [![Webpack](https://skillicons.dev/icons?i=webpack&theme=light)](https://webpack.js.org)
-[![Gulp](https://skillicons.dev/icons?i=gulp&theme=light)](https://gulpjs.com)
-[![Rollup](https://skillicons.dev/icons?i=rollupjs&theme=light)](https://rollupjs.org)
+[![pnPM](https://skillicons.dev/icons?i=pnpm&theme=light)](https://pnpm.io)
+[![Grafana](https://skillicons.dev/icons?i=grafana&theme=light)](https://grafana.com)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=light)](https://www.jenkins.io)
+[![Bash](https://skillicons.dev/icons?i=bash&theme=light)](https://www.gnu.org/software/bash)
 
 #### Latest writings
 - [Authentication with OpenID Connect](https://shibbir.io/authentication-with-oidc)
